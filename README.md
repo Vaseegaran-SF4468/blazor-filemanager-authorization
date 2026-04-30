@@ -1,4 +1,4 @@
-# blazor-filemanager-authorization
+# Blazor-filemanager-authorization
 
 **Repository Description**  
 This repository contains a **Blazor sample application** that demonstrates usage of the Syncfusion **Blazor File Manager** component.
